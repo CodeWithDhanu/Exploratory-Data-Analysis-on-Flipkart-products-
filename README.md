@@ -48,13 +48,13 @@ https://seaborn.pydata.org/ : Built on top of Matplotlib, Seaborn enhances the a
 
 **Conclusion :**
 
-Data Reliability: Despite minor missing data, the dataset proves reliable for analysis.
-Sales Distribution: Clear patterns emerge in sales distribution across months and years.
-Seasonal Surge: December 2015 and January 2016 experienced heightened product sales, coinciding with the New Year.
-New Year Impact: Shoppers showed a notable interest in purchasing products during the New Year.
-Sales Comparison: Sales in 2015 surpassed those in 2016 based on the available data.
-Discount Focus: Automotive, Mobiles & Accessories, and Clothing categories offered the highest discounts.
-Top Performers: Clothing, Jewelry, and Footwear emerged as top-selling categories.
+**Data Reliability:**  Despite minor missing data, the dataset proves reliable for analysis.
+**Sales Distribution:**  Clear patterns emerge in sales distribution across months and years.
+**Seasonal Surge:**  December 2015 and January 2016 experienced heightened product sales, coinciding with the New Year.
+**New Year Impact:**  Shoppers showed a notable interest in purchasing products during the New Year.
+**Sales Comparison:**  Sales in 2015 surpassed those in 2016 based on the available data.
+**Discount Focus:**  Automotive, Mobiles & Accessories, and Clothing categories offered the highest discounts.
+**Top Performers:** Clothing, Jewelry, and Footwear emerged as top-selling categories.
 
 
 
