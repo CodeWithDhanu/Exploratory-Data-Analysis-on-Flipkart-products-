@@ -1,22 +1,24 @@
-Flipkart_Products: Exploratory Data Analysis & Data Visualization
+**Flipkart_Products:** Exploratory Data Analysis & Data Visualization
 
 Explore the world of Flipkart's e-commerce landscape through data analysis and visualization. This project delves into the Flipkart Products dataset, uncovering trends, patterns, and insights that shed light on customer preferences, sales distribution, and pricing dynamics.
 
-Introduction
+**Introduction**
+
 Flipkart Pvt Ltd. is a prominent Indian electronic commerce company headquartered in Bengaluru, India. Founded in 2007 by Sachin Bansal and Binny Bansal, it initially focused on book sales and later expanded into a diverse range of product categories, including consumer electronics, fashion, and lifestyle products.
 
-Techniques Used
+**Techniques Used**
+
 This project employs the following techniques:
 Data Analysis: Extract meaningful insights from raw data by utilizing techniques such as data cleaning, aggregation, and correlation analysis.
 Data Visualization: Present your findings through compelling visualizations that help convey complex patterns and trends.
 
-Built with
+**Built with**
 Jupyter Notebook: A powerful open-source tool for interactive computing, facilitating data analysis, and visualization.
 
-DataSet
+**DataSet**
 https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
-Objectives
+**Objectives**
 Understand the structure and content of the dataset.
 Analyze patterns in the data to uncover trends and insights.
 Handle missing data to ensure the accuracy of the analysis.
@@ -24,7 +26,7 @@ Prepare the data for meaningful analysis and visualization.
 Explore insights related to monthly sales distribution and product discounts.
 Identify categories that performed exceptionally well in terms of sales.
 
-Libraries Used
+**Libraries Used**
 https://numpy.org/ : A fundamental package for scientific computing with Python.
 https://pandas.pydata.org/ : A versatile data manipulation library for Python.
 https://matplotlib.org/ : A popular data visualization library.
@@ -44,7 +46,8 @@ https://seaborn.pydata.org/ : Built on top of Matplotlib, Seaborn enhances the a
 
 <img width="771" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/34bd94e5-07a9-4675-80a7-1bfb6b3a13d5">
 
-Conclusion 
+**Conclusion :**
+
 Data Reliability: Despite minor missing data, the dataset proves reliable for analysis.
 Sales Distribution: Clear patterns emerge in sales distribution across months and years.
 Seasonal Surge: December 2015 and January 2016 experienced heightened product sales, coinciding with the New Year.
