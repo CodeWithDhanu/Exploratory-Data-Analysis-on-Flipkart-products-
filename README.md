@@ -19,12 +19,12 @@ Jupyter Notebook: A powerful open-source tool for interactive computing, facilit
 https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
 **Objectives**
-Understand the structure and content of the dataset.
-Analyze patterns in the data to uncover trends and insights.
-Handle missing data to ensure the accuracy of the analysis.
-Prepare the data for meaningful analysis and visualization.
-Explore insights related to monthly sales distribution and product discounts.
-Identify categories that performed exceptionally well in terms of sales.
+1. Understand the structure and content of the dataset.
+2. Analyze patterns in the data to uncover trends and insights.
+3. Handle missing data to ensure the accuracy of the analysis.
+4. Prepare the data for meaningful analysis and visualization.
+5. Explore insights related to monthly sales distribution and product discounts.
+6. Identify categories that performed exceptionally well in terms of sales.
 
 **Libraries Used**
 https://numpy.org/ : A fundamental package for scientific computing with Python.
@@ -48,13 +48,13 @@ https://seaborn.pydata.org/ : Built on top of Matplotlib, Seaborn enhances the a
 
 **Conclusion :**
 
-The data is good enough even small amounts of missing data available
-Periodical sales distribution is achieved in years & months
-During December 2015 & January 2016 products sales observed as high in numbers.
-People were more interested to purchase products during New Year
-2015 Sales observed higher compared to 2016 sales as per the data available
-Automotive, Mobiles&Accessories, Clothing categories are having highest_discounts.
-Clothing, Jewelry & Footwear are the top most sold items.
+1. The data is good enough even small amounts of missing data available
+2. Periodical sales distribution is achieved in years & months
+3. During December 2015 & January 2016 products sales observed as high in numbers.
+4. People were more interested to purchase products during New Year
+5. 2015 Sales observed higher compared to 2016 sales as per the data available
+6. Automotive, Mobiles&Accessories, Clothing categories are having highest_discounts.
+7. Clothing, Jewelry & Footwear are the top most sold items.
 
 
 
