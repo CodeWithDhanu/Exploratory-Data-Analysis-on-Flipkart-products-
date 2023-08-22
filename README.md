@@ -27,10 +27,10 @@ https://www.kaggle.com/PromptCloudHQ/flipkart-products
 6. Identify categories that performed exceptionally well in terms of sales.
 
 **Libraries Used**
-https://numpy.org/ : A fundamental package for scientific computing with Python.
-https://pandas.pydata.org/ : A versatile data manipulation library for Python.
-https://matplotlib.org/ : A popular data visualization library.
-https://seaborn.pydata.org/ : Built on top of Matplotlib, Seaborn enhances the aesthetics of visualizations.
+1. https://numpy.org/ : A fundamental package for scientific computing with Python.
+2. https://pandas.pydata.org/ : A versatile data manipulation library for Python.
+3. https://matplotlib.org/ : A popular data visualization library.
+4. https://seaborn.pydata.org/ : Built on top of Matplotlib, Seaborn enhances the aesthetics of visualizations.
 
 <img width="676" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/7f8abec5-7f6a-47c9-890e-d328dec53898">
 
