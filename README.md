@@ -8,9 +8,9 @@ Flipkart Pvt Ltd. is a prominent Indian electronic commerce company headquartere
 
 **Techniques Used**
 
-This project employs the following techniques:
-Data Analysis: Extract meaningful insights from raw data by utilizing techniques such as data cleaning, aggregation, and correlation analysis.
-Data Visualization: Present your findings through compelling visualizations that help convey complex patterns and trends.
+ This project employs the following techniques:
+1. Data Analysis: Extract meaningful insights from raw data by utilizing techniques such as data cleaning, aggregation, and correlation analysis.
+2. Data Visualization: Present your findings through compelling visualizations that help convey complex patterns and trends.
 
 **Built with**
 Jupyter Notebook: A powerful open-source tool for interactive computing, facilitating data analysis, and visualization.
