@@ -81,13 +81,12 @@ https://www.kaggle.com/PromptCloudHQ/flipkart-products
 **Conclusion :**
 
 1. The data is good enough even small amounts of missing data available
-2. Periodical sales distribution is achieved in years & months
-3. During December 2015 & January 2016 products sales observed as high in numbers.
-4. People were more interested to purchase products during New Year
-5. 2015 Sales observed higher compared to 2016 sales as per the data available
-6. Automotive, Mobiles&Accessories, Clothing categories are having highest_discounts.
-7. Clothing, Jewelry & Footwear are the top most sold items.
-
-
+2. the visualization demonstrates the distribution of top products and brands, offering actionable insights to inform inventory management and marketing strategies for enhanced customer satisfaction.
+3. identifies and presents brands with notably high mean discount percentages, aiding in strategic insights for pricing and marketing approaches.
+4. the top 20 customers who have spent the most based on their total discounted prices, highlighting valuable insights for customer engagement strategies.
+5. the presented funnel visualization summarizes the distribution of product ratings, highlighting the proportion of total products, rated products, and products receiving 5-star ratings, offering valuable insights into customer satisfaction trends.
+6. the interactive scatter plot succinctly illustrates the distribution of product ratings, offering insights into the frequency of different ratings and aiding in understanding customer satisfaction levels.
+7. the overlaid line plot captures the trends in mean retail and discounted prices over time, providing valuable insights into price dynamics that can guide pricing strategies and promotional efforts.
+8.  the scatter plot visualizes the relationship between the number of clicks and time, offering insights into click trends. The plot assists in understanding user engagement dynamics for better decision-making.
 
 
