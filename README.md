@@ -49,7 +49,9 @@ https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
 
 
-<img width="778" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/10f5be13-7492-45aa-921c-8a5067488495">
+<img width="635" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/4230b156-e355-495d-a7c3-c1edda1c3414">  
+
+
 
 
 
@@ -77,10 +79,7 @@ https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
 
 
-<img width="771" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/34bd94e5-07a9-4675-80a7-1bfb6b3a13d5">
-
-
-
+<img width="744" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/ac21319a-b1bd-450c-a38d-171e7526e58b">
 
 
 
