@@ -63,9 +63,6 @@ https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
 
 
-<img width="780" alt="image" src="https://github.com/CodeWithDhanu/Exploratory-Data-Analysis-on-Flipkart-products-/assets/142170129/dcc10e8e-0d4e-462f-bed5-afb49750c6a5">
-
-
 
 
 
